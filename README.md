@@ -112,12 +112,3 @@ This analysis provides valuable insights into the factors influencing student pe
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-   git clone https://github.com/your-username/student-performance-indicator.git
-   cd student-performance-indicator
-2. Install the dependencies:
-  pip install -r requirements.txt
-3. Run the analysis script:
-  python analysis.py
